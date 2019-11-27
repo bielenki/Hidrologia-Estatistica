@@ -13,3 +13,6 @@ Adaptação da apostila de hidrologia estatística do professor Dr. Walter Colli
 9. Vazões mínimas e máximas
 10. Distribuição amostral e erros
 11. Testes de hipóteses
+
+
+[Vídeo no YouTube](https://youtu.be/Xj6uEAizzfM)
